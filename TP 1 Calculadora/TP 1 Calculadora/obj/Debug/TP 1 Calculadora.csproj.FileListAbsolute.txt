@@ -1,0 +1,20 @@
+C:\Users\slopp\source\repos\5 AO Ejercicios\Proyecto Informatica 2\TP 1 Calculadora\TP 1 Calculadora\bin\Debug\TP 1 Calculadora.exe.config
+C:\Users\slopp\source\repos\5 AO Ejercicios\Proyecto Informatica 2\TP 1 Calculadora\TP 1 Calculadora\bin\Debug\TP 1 Calculadora.exe
+C:\Users\slopp\source\repos\5 AO Ejercicios\Proyecto Informatica 2\TP 1 Calculadora\TP 1 Calculadora\bin\Debug\TP 1 Calculadora.pdb
+C:\Users\slopp\source\repos\5 AO Ejercicios\Proyecto Informatica 2\TP 1 Calculadora\TP 1 Calculadora\obj\Debug\TP 1 Calculadora.csproj.AssemblyReference.cache
+C:\Users\slopp\source\repos\5 AO Ejercicios\Proyecto Informatica 2\TP 1 Calculadora\TP 1 Calculadora\obj\Debug\TP_1_Calculadora.Form1.resources
+C:\Users\slopp\source\repos\5 AO Ejercicios\Proyecto Informatica 2\TP 1 Calculadora\TP 1 Calculadora\obj\Debug\TP_1_Calculadora.Properties.Resources.resources
+C:\Users\slopp\source\repos\5 AO Ejercicios\Proyecto Informatica 2\TP 1 Calculadora\TP 1 Calculadora\obj\Debug\TP 1 Calculadora.csproj.GenerateResource.cache
+C:\Users\slopp\source\repos\5 AO Ejercicios\Proyecto Informatica 2\TP 1 Calculadora\TP 1 Calculadora\obj\Debug\TP 1 Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\slopp\source\repos\5 AO Ejercicios\Proyecto Informatica 2\TP 1 Calculadora\TP 1 Calculadora\obj\Debug\TP 1 Calculadora.exe
+C:\Users\slopp\source\repos\5 AO Ejercicios\Proyecto Informatica 2\TP 1 Calculadora\TP 1 Calculadora\obj\Debug\TP 1 Calculadora.pdb
+D:\Carpeta Hardrive de Github\Proyecto Informatica 2\TP 1 Calculadora\TP 1 Calculadora\bin\Debug\TP 1 Calculadora.exe.config
+D:\Carpeta Hardrive de Github\Proyecto Informatica 2\TP 1 Calculadora\TP 1 Calculadora\bin\Debug\TP 1 Calculadora.exe
+D:\Carpeta Hardrive de Github\Proyecto Informatica 2\TP 1 Calculadora\TP 1 Calculadora\bin\Debug\TP 1 Calculadora.pdb
+D:\Carpeta Hardrive de Github\Proyecto Informatica 2\TP 1 Calculadora\TP 1 Calculadora\obj\Debug\TP 1 Calculadora.csproj.AssemblyReference.cache
+D:\Carpeta Hardrive de Github\Proyecto Informatica 2\TP 1 Calculadora\TP 1 Calculadora\obj\Debug\TP_1_Calculadora.HuergoCalculadora.resources
+D:\Carpeta Hardrive de Github\Proyecto Informatica 2\TP 1 Calculadora\TP 1 Calculadora\obj\Debug\TP_1_Calculadora.Properties.Resources.resources
+D:\Carpeta Hardrive de Github\Proyecto Informatica 2\TP 1 Calculadora\TP 1 Calculadora\obj\Debug\TP 1 Calculadora.csproj.GenerateResource.cache
+D:\Carpeta Hardrive de Github\Proyecto Informatica 2\TP 1 Calculadora\TP 1 Calculadora\obj\Debug\TP 1 Calculadora.csproj.CoreCompileInputs.cache
+D:\Carpeta Hardrive de Github\Proyecto Informatica 2\TP 1 Calculadora\TP 1 Calculadora\obj\Debug\TP 1 Calculadora.exe
+D:\Carpeta Hardrive de Github\Proyecto Informatica 2\TP 1 Calculadora\TP 1 Calculadora\obj\Debug\TP 1 Calculadora.pdb
